@@ -1,10 +1,10 @@
 #begin-python
 
 ##Variables
- ###Assign
- ###Use
- ###Types
+###Assign
+###Use
+###Types
 ##Conditionals
- ###Expressions
- ###Branching
+###Expressions
+###Branching
 ##Functions
