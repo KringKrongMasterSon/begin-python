@@ -1,10 +1,10 @@
-# begin-python
+#begin-python
 
-## Grocery List
-
-
-#Pizza
-#Pizza
-#Pizza
-#Pizza
-#Pizza
+##Variables
+ ###Assign
+ ###Use
+ ###Types
+##Conditionals
+ ###Expressions
+ ###Branching
+##Functions
