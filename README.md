@@ -1,7 +1,7 @@
 #begin-python
 
-##Variables
+##[Variables](http://www.learnpython.org/en/Variables_and_Types)
 
-##Conditionals
+##[Conditionals](http://www.openbookproject.net/books/bpp4awd/ch04.html)
 
-##Functions
+##[Functions](http://www.tutorialspoint.com/python/python_functions.htm)
